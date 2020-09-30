@@ -3,15 +3,15 @@ L-systems in p5.js and processing3
 
 ![lsys2.png](lsys2.png)
 
-![live if els](https://editor.p5js.org/greggelong/full/JCBNfEyMW)
+[live if els](https://editor.p5js.org/greggelong/full/JCBNfEyMW)
 
 ![lsys2b.png](lsys2b.png)
 
-![live switch branching](https://editor.p5js.org/greggelong/full/BOO0xB5yp)
+[live switch branching](https://editor.p5js.org/greggelong/full/BOO0xB5yp)
 
 ![lsys3.png](lsys3.png)
 
-![live switch dragon](https://editor.p5js.org/greggelong/full/KbinrqOT-)
+[live switch dragon](https://editor.p5js.org/greggelong/full/KbinrqOT-)
 
 
 
