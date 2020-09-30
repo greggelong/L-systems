@@ -1,7 +1,11 @@
 # L-systems
 L-systems in p5.js and processing3 
+
 ![lsys2.png](lsys2.png)
+
 ![lsys2b.png](lsys2b.png)
+
+![lsys3.png](lsys3.png)
 
 
 Revisiting L-Systems. Previously I have used #danielshiffman #thecodingtrain and #natureofcode algorithms. But this version uses a different sentence expansion algorithm.
