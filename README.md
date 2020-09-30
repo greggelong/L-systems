@@ -34,4 +34,9 @@ Another benefit of this if else or switch() sentence expansion algorithm is that
 Processing3 doesn't have the object literal (comma separated name-value pairs in curly braces).
 So you can end up making a class to encapsulate that data.  And the code gets you farther away from the simple substitution. #creativecoding #lsystem
 
+L-Systems are a grammar. See my other code on [Context Free Grammar](https://greggelong.github.io/context-free-grammar/)
+
+[home](https://greggelong.github.io)
+
+
 
