@@ -3,15 +3,19 @@ L-systems in p5.js and processing3
 
 ![lsys2.png](lsys2.png)
 
-[live if else sentence expansion](https://editor.p5js.org/greggelong/full/JCBNfEyMW)
+[live: if else sentence expansion](https://editor.p5js.org/greggelong/full/JCBNfEyMW)
 
 ![lsys2b.png](lsys2b.png)
 
-[live switch statement sentence expansion branching](https://editor.p5js.org/greggelong/full/BOO0xB5yp)
+[live: switch statement sentence expansion, branching](https://editor.p5js.org/greggelong/full/BOO0xB5yp)
 
 ![lsys3.png](lsys3.png)
 
-[live switch statement sentence expansion dragon](https://editor.p5js.org/greggelong/full/KbinrqOT-)
+[live: switch statement sentence expansion, dragon](https://editor.p5js.org/greggelong/full/KbinrqOT-)
+
+![lsys4.png](lsys4.png)
+
+[live: switch statement sentence expansion, random rules](https://editor.p5js.org/greggelong/full/1JsOaNZm6)
 
 
 
