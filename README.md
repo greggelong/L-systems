@@ -3,23 +3,27 @@ L-systems in p5.js and processing3
 
 ![lsys2.png](lsys2.png)
 
-[live if els](https://editor.p5js.org/greggelong/full/JCBNfEyMW)
+[live if else sentence expansion](https://editor.p5js.org/greggelong/full/JCBNfEyMW)
 
 ![lsys2b.png](lsys2b.png)
 
-[live switch branching](https://editor.p5js.org/greggelong/full/BOO0xB5yp)
+[live switch statement sentence expansion branching](https://editor.p5js.org/greggelong/full/BOO0xB5yp)
 
 ![lsys3.png](lsys3.png)
 
-[live switch dragon](https://editor.p5js.org/greggelong/full/KbinrqOT-)
+[live switch statement sentence expansion dragon](https://editor.p5js.org/greggelong/full/KbinrqOT-)
 
 
 
 
 Revisiting L-Systems. Previously I have used #danielshiffman #thecodingtrain and #natureofcode algorithms. But this version uses a different sentence expansion algorithm.
- The L-System rule is just in a simple if else clause, or in switch statement.
+
+ The L-System rule is just in a simple if else clause, or switch statement.
+ 
  If sentences contains an "F" (non terminal) make the substitution "FF+[+F-F-F]-[-F+F+F]".
+ 
  If sentence contains a terminal character +-[] then just append it
+ 
  I think this makes the substitution more explicit and easier to understand.
  More complex rules can be captured in a switch statement.
 
