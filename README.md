@@ -1,6 +1,8 @@
 # L-systems
 L-systems in p5.js and processing3 
 ![lsys2.png](lsys2.png)
+![lsys2b.png](lsys2b.png)
+
 
 Revisiting L-Systems. Previously I have used #danielshiffman #thecodingtrain and #natureofcode algorithms. But this version uses a different sentence expansion algorithm.
  The L-System rule is just in a simple if else clause, or in switch statement.
@@ -16,4 +18,4 @@ Another benefit of this if else or switch() sentence expansion algorithm is that
 Processing3 doesn't have the object literal (comma separated name-value pairs in curly braces).
 So you can end up making a class to encapsulate that data.  And the code gets you farther away from the simple substitution. #creativecoding #lsystem
 
-![lsys2b.png](lsys2b.png)
+
