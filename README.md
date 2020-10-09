@@ -47,7 +47,8 @@ There is also an L-system in Python. It is drawn with Turtle and is very slow.  
 
 ## non propagative L-system:
      meaning it replaces characters 1 for 1, so the sentence does not grow
-   ## context sensitive:
+  
+## context sensitive:
      meaning it makes replacements by looking at neighbors as well as the char itself
      
      This happens to encode a one dimensional Wolfram cellular automaton
