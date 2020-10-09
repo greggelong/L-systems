@@ -43,6 +43,55 @@ There is also an L-system in Python. It is drawn with Turtle and is very slow.  
 
 [see python code live](https://trinket.io/python/eeedd06121)
 
+![nonprop.png](nonprop.png)
+
+## non propagative L-system:
+     meaning it replaces characters 1 for 1, so the sentence does not grow
+   ## context sensitive:
+     meaning it makes replacements by looking at neighbors as well as the char itself
+     
+     This happens to encode a one dimensional Wolfram cellular automaton
+     the rule here is Wolfram 90
+    
+    There is an edge problem in these kind of cellular automata when you are looking at the neighbors
+     of the first and last index 
+    
+     I am using modulo to solve the problem in python
+    >>>(19+1)%20
+    0
+    
+    the last index of a string of 20 chars is 19 so using modulo you can get 0
+    
+    >>>(0-1)%20
+    19
+    the first index of a sting of 20 chars - 1 will then = the last
+    
+    !!! but beware the JavaScript modulo bug !!!!!!
+    !!!                                         !!!!
+    
+    >>(19+1)%20
+     0
+
+    >>(0-1)%20
+
+     -1
+     
+     gives a negative result
+     
+     so here is the fix for javaScript negitive modulo
+     from https://medium.com/@thomaspoignant/how-to-get-always-a-positive-modulo-remainder-9ac965361ff4
+     
+     ((((i-1)%20)+20)%20)  /// yikes!!!!
+     
+     where you have a string of 20 chars and yikes!!!
+    
+    or just for the edge case when you are moving by negative one you can do it this way
+    
+    (0-1)%20+20
+    (i-1)%20+20
+    
+ 
+
 L-Systems are a grammar. See my other code on [Context Free Grammar](https://greggelong.github.io/context-free-grammar/)
 
 [home](https://greggelong.github.io)
