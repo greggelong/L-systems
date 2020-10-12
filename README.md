@@ -86,10 +86,10 @@ There is also an L-system in Python. It is drawn with Turtle and is very slow.  
      
      where you have a string of 20 chars and yikes!!!
     
-    or just for the edge case when you are moving by negative one you can do it this way
-    
+    you cannot just do this, which gives the correct result for 0-1:
     (0-1)%20+20
     (i-1)%20+20
+    because all the other values will be wrong. you you have to do it the long way
     
  
 
