@@ -43,7 +43,15 @@ There is also an L-system in Python. It is drawn with Turtle and is very slow.  
 
 [see python code live](https://trinket.io/python/eeedd06121)
 
+-------------
+
+## non propagative context sensitive L-systems
+
 ![nonprop.png](nonprop.png)
+
+![wolf90.png](wolf90.png)
+
+[live here](https://editor.p5js.org/greggelong/full/klTIfDXfB)
 
 ## non propagative L-system:
      meaning it replaces characters 1 for 1, so the sentence does not grow
