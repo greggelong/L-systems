@@ -45,6 +45,8 @@ There is also an L-system in Python. It is drawn with Turtle and is very slow.  
 
 ![nonprop.png](nonprop.png)
 
+![wolf90.png](wolf90.png)
+
 ## non propagative L-system:
      meaning it replaces characters 1 for 1, so the sentence does not grow
   
