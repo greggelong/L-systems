@@ -5,7 +5,7 @@ L-systems in p5.js and processing3
 
 [live: if else sentence expansion](https://editor.p5js.org/greggelong/full/JCBNfEyMW)
 
-https://greggelong.github.io/L-systems/L-system-if-else/index.html
+[live on github](https://greggelong.github.io/L-systems/L-system-if-else/index.html)
 
 ![lsys2b.png](lsys2b.png)
 
@@ -18,6 +18,8 @@ https://greggelong.github.io/L-systems/L-system-if-else/index.html
 ![lsys4.png](lsys4.png)
 
 [live: switch statement sentence expansion, random rules](https://editor.p5js.org/greggelong/full/1JsOaNZm6)
+
+[live on github](https://greggelong.github.io/L-systems/L-system-switch-random-rules/index.html)
 
 
 
