@@ -17,6 +17,9 @@ L-systems in p5.js and processing3
 
 [live: switch statement sentence expansion, dragon](https://editor.p5js.org/greggelong/full/KbinrqOT-)
 
+
+[live on github](https://greggelong.github.io/L-systems/L-system-swich-dragon/index.html)
+
 ![lsys4.png](lsys4.png)
 
 [live: switch statement sentence expansion, random rules](https://editor.p5js.org/greggelong/full/1JsOaNZm6)
